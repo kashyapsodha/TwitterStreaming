@@ -98,7 +98,7 @@ $ cp jars/elasticsearch-spark-20_2.11-5.5.0.jar ve/lib/python/site-packages/pysp
 ### Run "twitterfetch_app.py" to get tweets
 $ python twitterfetch_app.py
 
-### Run "twitterfetch_app.py" to store data in spark RDD and transfer it to elasticsearch
+### Run "sparkstreams_app.py" to store data in spark RDD and transfer it to elasticsearch
 $ python sparkstreams_app.py
 
 ### Spark UI
