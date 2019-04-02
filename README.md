@@ -86,7 +86,7 @@ http://127.0.0.1:9200/twitter/_search?pretty=true
 
 ### Create a virtual environment
   `$ virtualenv ve --no-site-packages`
-### Acrtivate virtual environment
+### Activate virtual environment
   `$ source ve/bin/activate`
 ### Install pyspark (spark-2.2.0)
   `$ pip install -r REQUIREMENTS`
